@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pralay roy chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pralay roy chowdhury" height="30" width="40" /></a>
-<a href="https://fb.com/pralay roychowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pralay roychowdhury" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/pralay roy chowdhury](https://www.linkedin.com/in/pralay-roy-chowdhury-67b846292/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pralay roy chowdhury" height="30" width="40" /></a>
+<a href="[https://fb.com/pralay roychowdhury](https://www.facebook.com/pralay.roychowdhury.10)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pralay roychowdhury" height="30" width="40" /></a>
 <a href="https://discord.gg/snoobdoge_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="snoobdoge_" height="30" width="40" /></a>
 </p>
 
